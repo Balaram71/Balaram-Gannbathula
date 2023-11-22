@@ -47,5 +47,5 @@ I’m  Final year B.Tech student, a developer who enjoys learning new skills and
 
 ### Connect with me on
 <p align="left">
-<a href="https://www.linkedin.com/in/balaramg/" target="_blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-linkedin.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://t.me/balaramGBR" target="_blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-telegram-app.svg" alt="Balaram71i" height="50" width="50" /></a>   <a href="mailto:balaramgannabathula@gmail.com" target="_blank"><img align="center" src="https://github.com/Balaram71/Balaram71/blob/main/icons/icons8-gmail.svg" alt="Krish Depani" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/balaramg/" target="_blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-linkedin.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://t.me/balaramGBR" target="_blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-telegram-app.svg" alt="Balaram71i" height="50" width="50" /></a> 
 </p>
